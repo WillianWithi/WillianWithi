@@ -31,11 +31,6 @@
 <br />
 <br />
 
-![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillianWithi&show_icons=true&theme=dracula)
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianWithi&layout=compact" style="max-width:100%;">
 
 [Willian Withi]: https://www.linkedin.com/in/willian-withi-b2761580/
 [linkedin]: https://www.linkedin.com/in/willian-withi-b2761580/
