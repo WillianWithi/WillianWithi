@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Olá, eu sou o [Willian Withi] 👋
 
-### Trabalho atualmente como desenvolvedor Mobile, usando React-Native
+### Trabalho atualmente como Desenvolvedor Mobile, usando React-Native
 
 - 🌱 Trabalho com Desenvolvimento Web e Mobile.
 - 🎯 Sempre focado em entregar produtos de impacto.
